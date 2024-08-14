@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.custom-bg{
+	background: #131010!important;
+}
+
+.admin.card{
+	border: 1px solid #d500f9;
+}
+
+.admin.card:hover {
+	background:#e2e2e2;
+}
+
+.list-group-item.active{
+	background: #131010!important;
+	border-color: #131010!important;
+}
+
+.discount-label{
+	font-size: 10px!important;
+	font-style: italic!important;
+}
+
+.product-card:hover{
+	background:#e2e2e2;
+	cursor: pointer;
+}
